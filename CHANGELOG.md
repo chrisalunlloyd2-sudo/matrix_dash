@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] matrix_dash 2026-08-14 08:54 ($hash)
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-14 04:08 ($hash)
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-14 01:21 ($hash)
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-13 23:22 ($hash)
@@ -52,5 +53,4 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-12 10:01 ($hash)
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-12 08:33 ($hash)
 - **[Changed]** [Moe autonomous] matrix_dash 2026-08-12 06:41 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
